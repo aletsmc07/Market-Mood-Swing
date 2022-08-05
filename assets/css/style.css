@@ -1,0 +1,24 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+header {
+    padding-bottom: 20px;
+}
+
+.banner {
+    padding: 3rem;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.card:hover {
+    border: 1px solid rgb(135, 178, 207);
+    cursor:pointer;
+}
+
+.card-image {
+    padding: 15px;
+}

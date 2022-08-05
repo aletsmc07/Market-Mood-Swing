@@ -1,0 +1,44 @@
+
+
+.titleRow:hover {
+    cursor: pointer;
+}
+
+.sentimentNumber {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 4px;
+    padding-left: 4px;
+
+}
+
+.savedNewsElement {
+    cursor: pointer;
+
+}
+
+
+.card:hover {
+    border: 2px solid rgb(135, 178, 207);
+    cursor:pointer;
+}
+
+.card-image {
+    padding: 35px;
+}
+
+.notification {
+    
+    font-size: x-large;
+
+}
+
+.list-companyName {
+    font-size: Large;
+
+}
+
+.savedNewsElement {
+    font-size: smaller;
+}
