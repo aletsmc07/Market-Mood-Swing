@@ -55,7 +55,7 @@ APP CREATED BY: TEAM 2 :)
 - Antonio García-Marquez
 
 ## Links
-- Github Repository: https://github.com/antonio-gmr/Project-1-Market-Mood-Swing
+- Github Repository: https://github.com/aletsmc07/Market-mood-swing
 - Deployed Github Pages link: https://antonio-gmr.github.io/Project-1-Market-Mood-Swing/
 
 ## License
